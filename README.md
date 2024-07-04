@@ -16,7 +16,7 @@
 - [Email](mailto:بريدك الإلكتروني)
 
 ## 📈 إحصائيات GitHub الخاصة بي
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaMuhamad&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scob337&show_icons=true&theme=radical)
 
 ## 🏆 الجوائز والتقديرات
 - جائزة أفضل مطور لعام 2023
