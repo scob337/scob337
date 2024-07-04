@@ -1,25 +1,27 @@
-# مرحبًا بكم في ملفي الشخصي!
+# Welcome to My Profile!
 
-أنا [اسمك هنا]، مطور برمجيات متخصص في تطوير واجهات المستخدم باستخدام React وTypeScript.
+## 🧑‍💻 About Me
+I am Abdel Tawab Shaban, a 26-year-old Front-End developer specializing in React.
 
-## 🔧 المهارات
+## 🔧 Skills
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+## 📫 How to Reach Me
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/toba1337/))
+- [Twitter]([https://twitter.com/](https://x.com/scob13377))
+- [Email](mailto:scob198350@gmail.com)
+- [GitHub](https://github.com/scob337)
+- [Mobile](+201206228285)
 
-## 📫 كيفية التواصل معي
-- [LinkedIn](رابط إلى صفحتك على لينكدإن)
-- [Twitter](رابط إلى حسابك على تويتر)
-- [Email](mailto:بريدك الإلكتروني)
-
-## 📈 إحصائيات GitHub الخاصة بي
+## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scob337&show_icons=true&theme=radical)
 
-## 🏆 الجوائز والتقديرات
-- جائزة أفضل مطور لعام 2023
-- مساهم بارز في مشاريع مفتوحة المصدر
 
-شكراً لزيارتكم! 🌟
+Thanks for visiting! 🌟
