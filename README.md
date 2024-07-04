@@ -1,7 +1,7 @@
 # Welcome to My Profile!
 
 ## 🧑‍💻 About Me
-I am Abdel Tawab Shaban, a 26-year-old Front-End developer specializing in React.
+I am Abd El-Tawab Shaban, a 26-year-old Front-End developer specializing in React.
 
 ## 🔧 Skills
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -14,11 +14,11 @@ I am Abdel Tawab Shaban, a 26-year-old Front-End developer specializing in React
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 
 ## 📫 How to Reach Me
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/toba1337/))
-- [Twitter]([https://twitter.com/](https://x.com/scob13377))
-- [Email](mailto:scob198350@gmail.com)
-- [GitHub](https://github.com/scob337)
-- [Mobile](+201206228285)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/toba1337/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/scob13377)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/scob337)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/01206228285)
+
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scob337&show_icons=true&theme=radical)
