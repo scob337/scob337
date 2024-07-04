@@ -17,7 +17,7 @@ I am Abd El-Tawab Shaban, a 26-year-old Front-End developer specializing in Reac
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/toba1337/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/scob13377)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/scob337)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/+201206228285)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/201206228285)
 
 
 ## 📈 GitHub Stats
