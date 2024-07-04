@@ -1,7 +1,25 @@
-Hi 👋, I'm Aya Mohamed
-A Software Engineer from Egypt
-Connect with me:
-https://www.linkedin.com/in/aya-muhamad/ https://web.facebook.com/profile.php?id=100029033200136 https://www.behance.net/ayamuhamad
+# مرحبًا بكم في ملفي الشخصي!
 
-Languages and Tools:
-android cplusplus csharp css3 dart figma flutter git html5 java javascript mysql photoshop python xd
+أنا [اسمك هنا]، مطور برمجيات متخصص في تطوير واجهات المستخدم باستخدام React وTypeScript.
+
+## 🔧 المهارات
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+## 📫 كيفية التواصل معي
+- [LinkedIn](رابط إلى صفحتك على لينكدإن)
+- [Twitter](رابط إلى حسابك على تويتر)
+- [Email](mailto:بريدك الإلكتروني)
+
+## 📈 إحصائيات GitHub الخاصة بي
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaMuhamad&show_icons=true&theme=radical)
+
+## 🏆 الجوائز والتقديرات
+- جائزة أفضل مطور لعام 2023
+- مساهم بارز في مشاريع مفتوحة المصدر
+
+شكراً لزيارتكم! 🌟
