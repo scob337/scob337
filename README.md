@@ -1,31 +1,67 @@
-# 🚀 Welcome to My Profile!
+<p align="center">
+    <img width="200" src="https://www.gyanblog.com/static/60fa9ebd58e29a7e31592d2183f5bbf1/b50f6/php.png">
+</p>
 
-## 👨‍💻 About Me
-Hello! I'm Abd El-Tawab Shaban, a Front-End Developer specializing in React.js. I enjoy building responsive and efficient web applications. Feel free to check out my portfolio to see some of my projects!
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-**🌐 Portfolio:** [abdo-front-end.netlify.app](https://abdo-front-end.netlify.app/)
+![Profile views](https://st4.depositphotos.com/1000128/21747/i/450/depositphotos_217479340-stock-photo-creative-abstract-php-web-design.jpg)
+[![Github](https://img.shields.io/github/followers/scob337?label=Follow&style=social)](https://github.com/scob337)
 
-## 🔧 Skills
-Here are some of the key tools and technologies I work with:
+<div size='20px'> Hi! My name is Abdel Tawab Shaban. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-## 📫 Let's Connect
-Feel free to reach out to me on any of the following platforms:
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/toba1337/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/scob13377)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/scob337)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/201206228285)
+- 🔭 I’m currently working as a Frontend Developer  
+  
+- 🌱 I’m currently learning advanced TypeScript and React patterns  
+  
+- 👯 I’m looking to collaborate on exciting frontend projects  
+  
+- 💬 Ask me about React, TypeScript, Tailwind CSS  
+  
+- ⚡ Fun fact: I love exploring simple and effective web design patterns.
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scob337&show_icons=true&theme=radical)
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/scob337?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a> &nbsp 
+<a href= https://github.com/scob337?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> &nbsp
+<a href= https://github.com/scob337?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> &nbsp
+<a href= https://github.com/scob337?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp
+<a href= https://github.com/scob337?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> &nbsp
+<a href= https://github.com/scob337?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a> &nbsp
 
-Thanks for visiting my profile! 🌟
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+    <a href="https://www.linkedin.com/in/toba1337/" target="_blank">
+        <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn">
+    </a> &nbsp &nbsp
+    <a href="https://github.com/scob337" target="_blank">
+        <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub">
+    </a> &nbsp &nbsp
+    <a href="https://abdo-front-end.netlify.app/" target="_blank">
+        <img width="32px" src="https://cdn-icons-png.flaticon.com/128/18295/18295370.png" alt="Portfolio">
+    </a>
+</div>
+
+
+  
+<br>
+<br>
+  <br>
+
+| ![Abdel's github stats](https://github-readme-stats.vercel.app/api?username=scob337&show_icons=true&theme=tokyonight) | ![Abdel GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scob337&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scob337&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=scob337&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<br>
+
+-----
+Credits: [Abdel Tawab Shaban](https://github.com/scob337)
+
+
